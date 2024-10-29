@@ -3,8 +3,10 @@
     --cor-de-fundo: #ebceee;
     --branco: hsl(0, 0%, 100%);
     --laranja: #EB9b00;
+    --degrade:linear-gradient(90deg, rgba(2,0,36,1) 34%, rgba(0,212,255,1) 65%);
 }
 body {
     background-color: var(--cor-de-fundo);
-
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 34%, rgba(0,212,255,1) 65%);
 }
