@@ -42,4 +42,6 @@
     background: var(--degrade);
     -webkit-background-clip: text;
  -webkit-text-fill: transparent;
+ background-clip: text;
+ text-transform: uppercase;
 }
