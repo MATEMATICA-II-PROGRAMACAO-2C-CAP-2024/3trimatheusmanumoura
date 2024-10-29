@@ -38,3 +38,8 @@
 .lista__menu_titulo {
     color: var(--laranja);
 }
+.lista__menu_link {
+    background: var(--degrade);
+    -webkit-background-clip: text;
+ -webkit-text-fill: transparent;
+}
