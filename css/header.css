@@ -30,7 +30,11 @@
  display: block;
 }
 
-.lista__meu_titulo, .lista__menu_item {
+.lista__menu_titulo, .lista__menu_item {
     padding: 1em;
     background-color: var(--branco);
+}
+
+.lista__menu_titulo {
+    color: var(--laranja);
 }
